@@ -6,4 +6,8 @@ public class GoodsDao {
 		System.out.println("리스트입니다.");
 	}
 
+	public void Insert() {
+		System.out.println("insert 작동");
+		
+	}
 }
